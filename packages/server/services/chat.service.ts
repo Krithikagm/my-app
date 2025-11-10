@@ -13,7 +13,7 @@ type chatresponse = {
 
 // Public Interface
 // Leaky Abstraction
-export const chatservice = {
+export const chatService = {
    async sendMessage(
       prompt: string,
       conversationId: string
