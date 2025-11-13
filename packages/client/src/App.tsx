@@ -1,4 +1,4 @@
-import ChatBot from './components/ui/chatBot';
+import ChatBot from './components/ui/chat/ChatBot';
 
 function App() {
    return (
